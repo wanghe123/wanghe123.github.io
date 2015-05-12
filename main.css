@@ -247,3 +247,11 @@ body{
 	line-height: 1;
 	margin-bottom: 40px;
 }
+
+/*about.css*/
+.about-banner{
+	height: 240px;
+	background-size: cover;
+	background-position: 70% 50%;
+	margin-top: -50px;
+}
